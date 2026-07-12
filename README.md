@@ -67,6 +67,6 @@ Everything above is built with Claude Code — and the workshop keeps its own bo
 
 <div align="center">
 
-<sub>Counted from 3,141 local Claude Code session logs by a <a href="https://github.com/abhijitbansal/claude-skills">claude-skills</a> script — on-device, like everything else here. Panels regenerated with <code>node scripts/build.mjs</code>. &nbsp;·&nbsp; <a href="https://abhijitbansal.com">abhijitbansal.com</a></sub>
+<sub>Counted from 3,141 local Claude Code session logs by a <a href="https://github.com/abhijitbansal/claude-skills">claude-skills</a> script — on-device, like everything else here. Panels regenerated with <code>node scripts/build.mjs</code>. &nbsp;·&nbsp; <a href="https://github.com/abhijitbansal/abhijitbansal/blob/main/docs/building-a-telemetry-profile-readme.md">how this was built ↗</a> &nbsp;·&nbsp; <a href="https://abhijitbansal.com">abhijitbansal.com</a></sub>
 
 </div>
