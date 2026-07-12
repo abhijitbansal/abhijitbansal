@@ -1,0 +1,70 @@
+{
+  "_note": "Curated snapshot for the profile README. Source of truth: foundry/data/stats.json (Claude Code session-log parse). Numbers are verbatim totals; the repo list mirrors the foundry site's public telemetry ledger, and repos with no authored lines are omitted from the per-repo chart. Regenerate SVGs with: node scripts/build.mjs",
+  "asOf": "2026-07-12",
+  "dateMin": "2026-05-22",
+  "dateMax": "2026-07-11",
+  "totals": {
+    "linesAdded": 305776,
+    "linesRemoved": 34819,
+    "sessions": 3089,
+    "filesWritten": 2168,
+    "filesEdited": 5283,
+    "outTokens": 90351364,
+    "inTokens": 96285690,
+    "cacheReadTokens": 12928725469,
+    "userMsgs": 5656,
+    "assistantMsgs": 102527,
+    "thinkingBlocks": 30108,
+    "logsParsed": 3141,
+    "subagentRuns": 599,
+    "skillInvocations": 138,
+    "webSearches": 545
+  },
+  "models": [
+    { "name": "Opus 4.8", "messages": 38729 },
+    { "name": "Sonnet 5", "messages": 26910 },
+    { "name": "Fable 5", "messages": 16505 },
+    { "name": "Haiku 4.5", "messages": 9065 },
+    { "name": "Opus 4.7", "messages": 6175 },
+    { "name": "Sonnet 4.6", "messages": 5042 }
+  ],
+  "repos": [
+    { "name": "cubby", "lines": 116975, "sessions": 1396 },
+    { "name": "claude-skills", "lines": 49569, "sessions": 551 },
+    { "name": "floorprint", "lines": 32064, "sessions": 266 },
+    { "name": "cartoon", "lines": 15617, "sessions": 62 },
+    { "name": "sift", "lines": 12182, "sessions": 137 },
+    { "name": "memekit", "lines": 9855, "sessions": 37 },
+    { "name": "foundry", "lines": 7338, "sessions": 103 },
+    { "name": "doc-scan", "lines": 6042, "sessions": 93 },
+    { "name": "design-system", "lines": 3129, "sessions": 16 }
+  ],
+  "topTools": [
+    { "name": "Bash", "count": 22246 },
+    { "name": "Read", "count": 15008 },
+    { "name": "Edit", "count": 5283 },
+    { "name": "Write", "count": 2168 },
+    { "name": "StructuredOutput", "count": 1999 },
+    { "name": "WebFetch", "count": 724 }
+  ],
+  "dailyOutTokens": [
+    ["2026-05-22", 109379], ["2026-05-25", 469310], ["2026-06-02", 971205],
+    ["2026-06-06", 1358765], ["2026-06-07", 417761], ["2026-06-10", 1119858],
+    ["2026-06-11", 2650378], ["2026-06-12", 4115874], ["2026-06-13", 592829],
+    ["2026-06-14", 98266], ["2026-06-15", 1675034], ["2026-06-20", 1501042],
+    ["2026-06-28", 10351443], ["2026-06-29", 8985317], ["2026-06-30", 5438909],
+    ["2026-07-01", 5796685], ["2026-07-02", 2687146], ["2026-07-03", 6064600],
+    ["2026-07-04", 8767944], ["2026-07-05", 8092915], ["2026-07-06", 6975826],
+    ["2026-07-07", 152673], ["2026-07-08", 496448], ["2026-07-11", 11461757]
+  ],
+  "languages": [
+    { "name": "Swift", "bytes": 5754347 },
+    { "name": "Python", "bytes": 571194 },
+    { "name": "Shell", "bytes": 458780 },
+    { "name": "Rust", "bytes": 325730 },
+    { "name": "TypeScript", "bytes": 168891 },
+    { "name": "JavaScript", "bytes": 165096 },
+    { "name": "Astro", "bytes": 85876 }
+  ],
+  "contributions": { "totalLastYear": 1679, "privateShare": 1240 }
+}

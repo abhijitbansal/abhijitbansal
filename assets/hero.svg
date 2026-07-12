@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img">
+  <defs>
+    <radialGradient id="emberGlow" cx="82%" cy="118%" r="70%">
+      <stop offset="0%" stop-color="#E36A5E" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#C8901F" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#E36A5E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E36A5E" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#E36A5E" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="barEmber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C0503F"/>
+      <stop offset="100%" stop-color="#E36A5E"/>
+    </linearGradient>
+  </defs>
+    <rect width="880" height="250" rx="16" fill="#0F0C08"/>
+    <rect width="880" height="250" rx="16" fill="url(#emberGlow)"/>
+    <g clip-path="inset(0 round 16px)"><circle cx="760" cy="290" r="40" fill="none" stroke="#C0503F" stroke-width="1" opacity="0.28" /><circle cx="760" cy="290" r="92" fill="none" stroke="#2C2419" stroke-width="1" opacity="0.34" /><circle cx="760" cy="290" r="150" fill="none" stroke="#C0503F" stroke-width="1" opacity="0.4" /><circle cx="760" cy="290" r="210" fill="none" stroke="#2C2419" stroke-width="1" opacity="0.46" stroke-dasharray="2 13"/></g>
+    <rect x="0.5" y="0.5" width="879" height="249" rx="16" fill="none" stroke="#2C2419"/>
+    <!-- survey grid crosshairs -->
+    <g opacity="0.8">
+      <line x1="20" y1="20" x2="36" y2="20" stroke="#C0503F"/><line x1="20" y1="20" x2="20" y2="36" stroke="#C0503F"/>
+      <line x1="860" y1="20" x2="844" y2="20" stroke="#C0503F"/><line x1="860" y1="20" x2="860" y2="36" stroke="#C0503F"/>
+    </g>
+    <text x="48" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="4" fill="#E6BF5A" font-weight="600">THE FOUNDRY · WORKING DRAWINGS</text>
+    <text x="46" y="130" font-family="Georgia,'Times New Roman',serif" font-size="52" fill="#F3EDE1" font-weight="700" letter-spacing="1">Abhijit Bansal</text>
+    <text x="48" y="166" font-family="Georgia,'Times New Roman',serif" font-size="21" font-style="italic" fill="#E36A5E">I build privacy-first apps &amp; AI agent tooling.</text>
+    <text x="48" y="196" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#C4B9A7">Designed, engineered &amp; shipped end to end — solo.</text>
+    <line x1="48" y1="216" x2="832" y2="216" stroke="#241D14"/>
+    <text x="48" y="234" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#5F564A">SHEET 1 OF 1 · NOT FOR CONSTRUCTION · LAST FORGED 2026-07-12</text>
+    <text x="832" y="234" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#5F564A">iOS · SWIFT 6 · RUST · AI AGENTS</text></svg>

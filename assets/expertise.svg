@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img">
+  <defs>
+    <radialGradient id="emberGlow" cx="82%" cy="118%" r="70%">
+      <stop offset="0%" stop-color="#E36A5E" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#C8901F" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#E36A5E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E36A5E" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#E36A5E" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="barEmber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C0503F"/>
+      <stop offset="100%" stop-color="#E36A5E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="209" rx="14" fill="#17120C" stroke="#2C2419"/>
+  <rect x="0.5" y="0.5" width="879" height="209" rx="14" fill="url(#emberGlow)"/>
+  
+    <line x1="13" y1="13" x2="24" y2="13" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="13" y1="13" x2="13" y2="24" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="867" y1="13" x2="856" y2="13" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="867" y1="13" x2="867" y2="24" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="13" y1="197" x2="24" y2="197" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="13" y1="197" x2="13" y2="186" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="867" y1="197" x2="856" y2="197" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+    <line x1="867" y1="197" x2="867" y2="186" stroke="#C0503F" stroke-width="1" opacity="0.7"/>
+  <text x="30" y="34" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2.2" fill="#E6BF5A" font-weight="600">THREE DISCIPLINES, ONE BENCH</text>
+  
+      <text x="30" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#5F564A">/ 01</text>
+      <line x1="30" y1="80" x2="64" y2="80" stroke="#E36A5E" stroke-width="2"/>
+      <text x="30" y="102" font-family="Georgia,'Times New Roman',serif" font-size="17" fill="#F3EDE1" font-weight="700">iOS &amp; Apple platforms</text>
+      <text x="30" y="118" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Swift 6, SwiftUI, SwiftData,</text><text x="30" y="135" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Vision, RoomPlan, on-device ML.</text><text x="30" y="152" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Privacy-first, zero-backend —</text><text x="30" y="169" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">apps that never phone home.</text>
+      <text x="30" y="180" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.4" fill="#E6BF5A">Swift 6 · SwiftUI · Vision · RoomPlan</text><line x1="302.3333333333333" y1="56" x2="302.3333333333333" y2="186" stroke="#241D14"/>
+      <text x="303.3333333333333" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#5F564A">/ 02</text>
+      <line x1="303.3333333333333" y1="80" x2="337.3333333333333" y2="80" stroke="#E36A5E" stroke-width="2"/>
+      <text x="303.3333333333333" y="102" font-family="Georgia,'Times New Roman',serif" font-size="17" fill="#F3EDE1" font-weight="700">AI agent tooling</text>
+      <text x="303.3333333333333" y="118" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Claude Code skills &amp; plugins,</text><text x="303.3333333333333" y="135" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">MCP servers, token optimization,</text><text x="303.3333333333333" y="152" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">multi-agent orchestration.</text><text x="303.3333333333333" y="169" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Agents cheaper, sharper, faster.</text>
+      <text x="303.3333333333333" y="180" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.4" fill="#E6BF5A">Claude Code · MCP · Rust · Python</text><line x1="575.6666666666666" y1="56" x2="575.6666666666666" y2="186" stroke="#241D14"/>
+      <text x="576.6666666666666" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#5F564A">/ 03</text>
+      <line x1="576.6666666666666" y1="80" x2="610.6666666666666" y2="80" stroke="#E36A5E" stroke-width="2"/>
+      <text x="576.6666666666666" y="102" font-family="Georgia,'Times New Roman',serif" font-size="17" fill="#F3EDE1" font-weight="700">Full-stack product craft</text>
+      <text x="576.6666666666666" y="118" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">Rust CLIs, design systems,</text><text x="576.6666666666666" y="135" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">App Store releases — shipped solo.</text><text x="576.6666666666666" y="152" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">The whole stack,</text><text x="576.6666666666666" y="169" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#C4B9A7">one pair of hands.</text>
+      <text x="576.6666666666666" y="180" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.4" fill="#E6BF5A">Rust · TypeScript · Design tokens</text></svg>
