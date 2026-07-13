@@ -29,19 +29,19 @@
   <text x="850" y="34" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#5F564A">BY CALL COUNT</text><text x="30" y="69" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Bash</text>
       <rect x="150" y="61" width="640" height="8" rx="4" fill="#1E1810"/>
       <rect x="150" y="61" width="640.0" height="8" rx="4" fill="url(#barEmber)"/>
-      <text x="850" y="69" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">27.1K</text><text x="30" y="91" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Read</text>
+      <text x="850" y="69" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">28.2K</text><text x="30" y="91" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Read</text>
       <rect x="150" y="83" width="640" height="8" rx="4" fill="#1E1810"/>
-      <rect x="150" y="83" width="404.5" height="8" rx="4" fill="url(#barEmber)"/>
-      <text x="850" y="91" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">17.1K</text><text x="30" y="113" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Edit</text>
+      <rect x="150" y="83" width="401.9" height="8" rx="4" fill="url(#barEmber)"/>
+      <text x="850" y="91" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">17.7K</text><text x="30" y="113" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Edit</text>
       <rect x="150" y="105" width="640" height="8" rx="4" fill="#1E1810"/>
-      <rect x="150" y="105" width="141.2" height="8" rx="4" fill="url(#barEmber)"/>
-      <text x="850" y="113" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">6.0K</text><text x="30" y="135" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Write</text>
+      <rect x="150" y="105" width="138.8" height="8" rx="4" fill="url(#barEmber)"/>
+      <text x="850" y="113" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">6.1K</text><text x="30" y="135" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">StructuredOutput</text>
       <rect x="150" y="127" width="640" height="8" rx="4" fill="#1E1810"/>
-      <rect x="150" y="127" width="58.8" height="8" rx="4" fill="url(#barEmber)"/>
-      <text x="850" y="135" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">2.5K</text><text x="30" y="157" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">StructuredOutput</text>
+      <rect x="150" y="127" width="57.3" height="8" rx="4" fill="url(#barEmber)"/>
+      <text x="850" y="135" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">2.5K</text><text x="30" y="157" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Write</text>
       <rect x="150" y="149" width="640" height="8" rx="4" fill="#1E1810"/>
-      <rect x="150" y="149" width="57.9" height="8" rx="4" fill="url(#barEmber)"/>
+      <rect x="150" y="149" width="57.1" height="8" rx="4" fill="url(#barEmber)"/>
       <text x="850" y="157" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">2.5K</text><text x="30" y="179" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B9A7">Grep</text>
       <rect x="150" y="171" width="640" height="8" rx="4" fill="#1E1810"/>
-      <rect x="150" y="171" width="18.6" height="8" rx="4" fill="url(#barEmber)"/>
-      <text x="850" y="179" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">787</text></svg>
+      <rect x="150" y="171" width="18.1" height="8" rx="4" fill="url(#barEmber)"/>
+      <text x="850" y="179" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">797</text></svg>
