@@ -29,37 +29,37 @@
   <text x="850" y="34" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#5F564A">9 REPOS</text><text x="30" y="73" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">cubby</text>
       <rect x="150" y="64" width="580" height="10" rx="5" fill="#1E1810"/>
       <rect x="150" y="64" width="580.0" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="740" y="73" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">117K</text>
-      <text x="850" y="73" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">1.4K sess</text><text x="30" y="103" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">claude-skills</text>
+      <text x="740" y="73" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">130K</text>
+      <text x="850" y="73" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">1.7K sess</text><text x="30" y="103" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">claude-skills</text>
       <rect x="150" y="94" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="94" width="245.8" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="405.7791835862364" y="103" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">49.6K</text>
-      <text x="850" y="103" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">551 sess</text><text x="30" y="133" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">floorprint</text>
+      <rect x="150" y="94" width="176.3" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="336.27992322456817" y="103" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">39.6K</text>
+      <text x="850" y="103" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">632 sess</text><text x="30" y="133" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">sift</text>
       <rect x="150" y="124" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="124" width="159.0" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="318.9837144689036" y="133" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">32.1K</text>
-      <text x="850" y="133" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">266 sess</text><text x="30" y="163" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">cartoon</text>
+      <rect x="150" y="124" width="54.2" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="214.24614203454894" y="133" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">12.2K</text>
+      <text x="850" y="133" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">137 sess</text><text x="30" y="163" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">foundry</text>
       <rect x="150" y="154" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="154" width="77.4" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="237.4341525967087" y="163" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">15.6K</text>
-      <text x="850" y="163" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">62 sess</text><text x="30" y="193" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">sift</text>
+      <rect x="150" y="154" width="53.2" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="213.1818809980806" y="163" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">11.9K</text>
+      <text x="850" y="163" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">175 sess</text><text x="30" y="193" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">floorprint</text>
       <rect x="150" y="184" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="184" width="60.4" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="220.40230818550972" y="193" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">12.2K</text>
-      <text x="850" y="193" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">137 sess</text><text x="30" y="223" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">memekit</text>
+      <rect x="150" y="184" width="52.8" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="212.83454894433783" y="193" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">11.9K</text>
+      <text x="850" y="193" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">195 sess</text><text x="30" y="223" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">doc-scan</text>
       <rect x="150" y="214" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="214" width="48.9" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="208.86428724086343" y="223" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">9.9K</text>
-      <text x="850" y="223" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">37 sess</text><text x="30" y="253" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">foundry</text>
+      <rect x="150" y="214" width="35.7" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="195.72621880998082" y="223" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">8.0K</text>
+      <text x="850" y="223" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">156 sess</text><text x="30" y="253" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">cartoon</text>
       <rect x="150" y="244" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="244" width="36.4" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="196.3841846548408" y="253" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">7.3K</text>
-      <text x="850" y="253" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">103 sess</text><text x="30" y="283" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">doc-scan</text>
+      <rect x="150" y="244" width="18.8" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="178.84053742802303" y="253" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">4.2K</text>
+      <text x="850" y="253" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">42 sess</text><text x="30" y="283" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">design-system</text>
       <rect x="150" y="274" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="274" width="30.0" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="189.95819619576832" y="283" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">6.0K</text>
-      <text x="850" y="283" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">93 sess</text><text x="30" y="313" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">design-system</text>
+      <rect x="150" y="274" width="13.9" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="173.93335892514395" y="283" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">3.1K</text>
+      <text x="850" y="283" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">16 sess</text><text x="30" y="313" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#F3EDE1" font-weight="600">folix</text>
       <rect x="150" y="304" width="580" height="10" rx="5" fill="#1E1810"/>
-      <rect x="150" y="304" width="15.5" height="10" rx="5" fill="url(#barEmber)"/>
-      <text x="175.5145971361402" y="313" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">3.1K</text>
-      <text x="850" y="313" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">16 sess</text><text x="30" y="340" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F564A">bar = lines added · public + private · matches the foundry site ledger</text></svg>
+      <rect x="150" y="304" width="3.4" height="10" rx="5" fill="url(#barEmber)"/>
+      <text x="163.3664491362764" y="313" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6BF5A">756</text>
+      <text x="850" y="313" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#8B8072">10 sess</text><text x="30" y="340" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#5F564A">bar = lines added · public + private · matches the foundry site ledger</text></svg>
